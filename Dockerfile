@@ -6,6 +6,7 @@ RUN apt-get update \
     curl \
     netcat \
     tmux \
+    unzip \
     python3 \
     python3-pip \
     ansible \
